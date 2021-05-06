@@ -4,7 +4,7 @@
 ```console
 Hi, I'm Chris 
 * Mechanical Engineer
-* Basic guitarist & pizza lover
+* Basic guitarist, coffee & pizza lover
 * Driven by curiosity and willingness to learn
 ```
 
