@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+# Chris Zack Pinto - Zackendev
+
+```console
+Hi, I'm Chris 
+* Mechanical Engineer
+* Basic guitarist & pizza lover
+* Driven by curiosity and willingness to learn
+```
+
+### Contacts 📫
+
+- [LinkedIn](https://www.linkedin.com/in/chriszackpinto/)
+- pintozackchris@gmail.com
+
+
+
+
 <!--
 **zackendev/zackendev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
