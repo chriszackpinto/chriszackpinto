@@ -3,7 +3,7 @@
 
 ```console
 Hi, I'm Chris 
-* Mechanical Engineer
+* Engineer
 * Basic guitarist, coffee & pizza lover
 * Driven by curiosity and willingness to learn
 ```
