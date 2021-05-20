@@ -1,5 +1,5 @@
 
-# Chris Zack Pinto - Zackendev
+# Chris Zack Pinto
 
 ```console
 Hi, I'm Chris 
