@@ -8,7 +8,7 @@ Hi, I'm Chris
 * Driven by curiosity and willingness to learn
 ```
 
-### Contacts 📫
+### Social 📫
 
 - [LinkedIn](https://www.linkedin.com/in/chriszackpinto/)
 - [CodePen](https://codepen.io/chriszackpinto)
