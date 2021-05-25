@@ -12,7 +12,7 @@ Hi, I'm Chris
 
 - [LinkedIn](https://www.linkedin.com/in/chriszackpinto/)
 - [CodePen](https://codepen.io/chriszackpinto)
-- [Email](pintozackchris@gmail.com)
+- pintozackchris@gmail.com
 
 
 
