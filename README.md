@@ -11,7 +11,8 @@ Hi, I'm Chris
 ### Contacts 📫
 
 - [LinkedIn](https://www.linkedin.com/in/chriszackpinto/)
-- pintozackchris@gmail.com
+- [CodePen](https://codepen.io/chriszackpinto)
+- [Email](pintozackchris@gmail.com)
 
 
 
