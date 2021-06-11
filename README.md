@@ -12,6 +12,7 @@ Hi, I'm Chris
 
 - [LinkedIn](https://www.linkedin.com/in/chriszackpinto/)
 - [CodePen](https://codepen.io/chriszackpinto)
+- [Behance](https://www.behance.net/chriszackpinto)
 - pintozackchris@gmail.com
 
 
